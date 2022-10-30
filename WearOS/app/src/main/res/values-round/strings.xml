@@ -1,0 +1,10 @@
+<resources>
+    <string name="desc_step_count" translatable="false">Today\’s Step Count</string>
+    <string name="today" translatable="false">Today</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="unit_steps" translatable="false">Steps</string>
+    <string name="steps_refresh" translatable="false">Refresh</string>
+    <string name="read_permissions_error" translatable="false">Can\'t read permissions.</string>
+    <string name="request_permissions_error" translatable="false">Request permissions failed.</string>
+    <string name="read_steps_failed" translatable="false">Read steps failed.</string>
+</resources>
